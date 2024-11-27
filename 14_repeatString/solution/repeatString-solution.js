@@ -1,6 +1,6 @@
 const repeatString = function() {
-    return 'heyheyhey'
+  // Replace this comment with the solution code
 };
-
+  
 // Do not edit below this line
 module.exports = repeatString;
